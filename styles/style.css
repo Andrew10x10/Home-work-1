@@ -1,0 +1,25 @@
+.box1{
+    color: brown;
+}
+.box2{
+    color: green;
+}
+dt {
+    color: darkred;
+}
+dd {
+    color: darkolivegreen;
+}
+hr{
+    width:70%;
+}
+.footer-test-1{
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+.footer-test-2{
+    margin-top: 30px;
+    margin-right:200px;
+    margin-left: 150px;
+
+}
